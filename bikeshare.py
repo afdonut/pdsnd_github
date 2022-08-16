@@ -38,6 +38,8 @@ def choice(prompt, choices=('y', 'n')):
 
     return choice
 
+### to get filters
+
 
 def get_filters():
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
@@ -75,6 +77,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+#### used to load data
 
 def load_data(city, month, day):
     """Load data for the specified filters of city(ies), month(s) and
