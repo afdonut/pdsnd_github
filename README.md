@@ -19,8 +19,9 @@ Udacity
 
 
 
-#### List of calculations
+#### List of calculations 
 Time stats
 Station Stats
 Trip Duration Stats
 user stats
+raw data
