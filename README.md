@@ -19,9 +19,9 @@ Udacity
 
 
 
-#### List of calculations 
-Time stats
-Station Stats
-Trip Duration Stats
-user stats
-raw data
+#### List of calculations
+*Time stats,
+*Station Stats,
+*Trip Duration Stats,
+*user stats,
+*raw data (added 8/14/2022)
