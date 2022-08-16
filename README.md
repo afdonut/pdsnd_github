@@ -16,3 +16,11 @@ Washington.csv
 
 ### Credits
 Udacity
+
+
+
+#### List of calculations
+Time stats
+Station Stats
+Trip Duration Stats
+user stats
