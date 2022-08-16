@@ -256,13 +256,14 @@ def user_stats(df, city):
     print("\nThis took {} seconds.".format((time.time() - start_time)))
     print('-'*40)
 
+###display raw Data
 
 def raw_data(df):
     """Displaying contents of .CSV..."""
-      ### display rawdata
+
 
     start_loc = 0
-    end_loc = 5
+    end_loc = 6
 
     display_active = input("Do you want to see the raw data?: ").lower()
 
@@ -270,8 +271,8 @@ def raw_data(df):
         while end_loc <= df.shape[0] - 1:
 
             print(df.iloc[start_loc:end_loc,:])
-            start_loc += 5
-            end_loc += 5
+            start_loc += 6
+            end_loc += 6
 
             end_display = input("Do you wish to continue?: ").lower()
             if end_display == 'n':
