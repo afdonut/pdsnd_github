@@ -20,8 +20,8 @@ Udacity
 
 
 #### List of calculations 
-Time stats
-Station Stats
-Trip Duration Stats
-user stats
+Time stats,
+Station Stats,
+Trip Duration Stats,
+user stats,
 raw data
