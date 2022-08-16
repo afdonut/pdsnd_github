@@ -28,9 +28,9 @@ Udacity
 *raw data (added 8/14/2022)
 =======
 #### List of calculations 
-Time stats,
-Station Stats,
-Trip Duration Stats,
-user stats,
+Time stats
+Station Stats
+Trip Duration Stats
+user stats
 raw data
 >>>>>>> 8d0dfe23e60811e8bccc1177dd6d0b0103e127b3
