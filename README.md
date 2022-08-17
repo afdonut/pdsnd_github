@@ -7,7 +7,7 @@
 Bikeshare stats
 
 ### Description
-Project presents statistics on Bikeshare in cities New York, Chicago, and Washington
+Project presents statistics on Bikeshare in cities New York, Chicago, and Washington.
 
 ### Files used
 New_york_city.csv
